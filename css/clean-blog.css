@@ -1,6 +1,6 @@
 /*!
  * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
+ * Copyright 2016 Start Bootstrap
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
@@ -21,13 +21,9 @@ h2,
 h3,
 h4,
 h5,
-h6,
-h6.powered_by {
+h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  line-height: 1;
-  font-size: 13px;
-  margin-top: 0px;
+  font-weight: 800;
 }
 a {
   color: #404040;
@@ -405,26 +401,28 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
-
+.navbar h1 span {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+}
+.navbar h1 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+  font-style: italic;
+}
 .svg-center {
-    display: inline;
-    position: relative;
-    top: 3px;
+  display: inline;
+  position: relative;
+  top: 3px;
 }
-
 @font-face {
-    font-family: 'glyphterregular';
-    src: url('../fonts/glyphter-webfont.eot');
-    src: url('../fonts/glyphter-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/glyphter-webfont.woff2') format('woff2'),
-         url('../fonts/glyphter-webfont.woff') format('woff'),
-         url('../fonts/glyphter-webfont.ttf') format('truetype'),
-         url('../fonts/glyphter-webfont.svg#glyphterregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'glyphterregular';
+  src: url('../fonts/glyphter-webfont.eot');
+  src: url('../fonts/glyphter-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphter-webfont.woff2') format('woff2'), url('../fonts/glyphter-webfont.woff') format('woff'), url('../fonts/glyphter-webfont.ttf') format('truetype'), url('../fonts/glyphter-webfont.svg#glyphterregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
-
 .learn-icon {
   position: relative;
   top: 5px;
@@ -433,8 +431,10 @@ body {
   font-style: normal;
   font-weight: normal;
   line-height: 1;
-  color:#fff;
-
+  color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
