@@ -2,11 +2,12 @@
 title: NewMe
 header-img: img/home-bg.jpeg
 email: dom.mckellar@gmail.com
-copyright_name: Dom-Mc
+copyright_name: "Dom McKellar"
 description: > # this means to ignore newlines until "baseurl:"
   The infancy of life in web development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: _dom_mc
+linkedin_username: dommckellar
 github_username:  Dom-Mc
 learn_profile: Dom-Mc
 email_username: dom.mckellar@gmail.com
