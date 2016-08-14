@@ -461,22 +461,26 @@ img::-moz-selection {
 body {
 	webkit-tap-highlight-color: @brand-primary;
 }
-.navbar h1 span {
-  font-family: 'Cabin', sans-serif;
+
+
+// Learn.co
+.learn-icon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'glyphterregular';
+  font-style: normal;
   font-weight: 700;
-  // font-family: 'Ranga', cursive;
-  // font-family: 'Allan', cursive;
-}
-.navbar h1 {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 400;
-  margin-top: 0;
-  margin-bottom: 0;
-  font-style: italic;
-  // font-family: 'Ranga', cursive;
-  // font-family: 'Allan', cursive;
+  line-height: 1;
+  color: #337ab7;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+.learn-icon:hover {
+    color: whitesmoke;
+}
 .svg-center {
     display: inline;
     position: relative;
@@ -495,20 +499,57 @@ body {
     font-style: normal;
 
 }
-
-.learn-icon {
-  position: relative;
-  top: 5px;
-  display: inline-block;
-  font-family: 'glyphterregular';
-  font-style: normal;
-  font-weight: normal;
-  line-height: 1;
-  color:#fff;
-
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+// MY ADDTIONS////////////////////////////
+.navbar h1 span {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+  // font-family: 'Ranga', cursive;
+  // font-family: 'Allan', cursive;
 }
+.navbar h1 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-style: italic;
+  // font-family: 'Ranga', cursive;
+  // font-family: 'Allan', cursive;
+}
+
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
 }
+
+header {
+    text-shadow: 1px 1px 1px #333;
+}
+
+.main-footer    {
+  background-color: rgba(29, 36, 42, 0.9);
+}
+footer .copyright {
+  // color: whitesmoke;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+      font-size: 1rem;
+}
+
+.social-icons a {
+  color: #337ab7;
+}
+.social-icons .fa-inverse {
+  color: #337ab7;
+}
+.social-icons .fa-inverse:hover {
+  color: whitesmoke;
+}
+
+.fa-stack {
+    position: relative;
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    line-height: 5rem;
+  }
