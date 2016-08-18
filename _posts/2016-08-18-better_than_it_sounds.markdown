@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Better Than It Sounds"
-date:   2016-08-18 22:50:04 +0000
+date:   2016-08-18 18:50:05 -0400
 ---
 
 
