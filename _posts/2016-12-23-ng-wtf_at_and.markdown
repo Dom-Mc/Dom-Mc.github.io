@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "NG-WTF %^@!)&#?"
+date:   2016-12-23 19:11:23 +0000
+---
+
+
+Angular is sort of like that highly combustible relationship you had back in high school or college. When everything's going well, it's an unbelievably easy and fun framework to work with. The functionality at your finger tips with a simple `ng-someMethod` call (side note: angular prepends "ng-" to it's built in directives which can easily be dropped into any html document to manipulate the DOM), at times it *almost* seems too easy. Sure you see the warning signs off in the distance. You've heard horror stories about scope and inheritance, however you choose to ignore them all (for now) and let the good times roll! Yet despite of the occasional "odd" behavior, you play naive and simply ignore those pesky inconvenient red flags.
+
+*fast forward - some 24 hours later*
+
+NICE! You've just added your shiny brand new search feature, and sure you're modest, but even you know it's pretty kick ass. It sorts, it filters, it dynamically pulls in data from various endpoints, and all this amazingness gets completed on the fly! Goodness what an incredible framework, could life get any better? Well, the short answer, YES, yes it could because it's all about to come crashing down like an ACME Anvil and unfortunately your head's the coyote. And suddenly you're having flashbacks to Nancy Kerrigan as you can't help but ask, "Why me?"
+
+Ah welcome to life with Angular, where everything's great before it's not. Adding features brings complexity, and added complexity brings the potential of significant pain. Ugh, where's the ibuprofen when you need it???
+
+Hey cheer up, on the bright side Angular does provide a pretty stack trace for console debugging (spoiler alert - it's probably not going to be the type of help you were hoping for).
+
+In conclusion, I believe one should always leave a blog post on a positive note, let me stall as I attempt to think of one... Well, if (when) you face this challenge, just remember, um, things can only get b-e-t-t-e-r from here?
