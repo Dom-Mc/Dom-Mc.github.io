@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NG-WTF %^@!)&#?"
+title:  "NG-hUh?"
 date:   2016-12-23 19:11:23 +0000
 ---
 
