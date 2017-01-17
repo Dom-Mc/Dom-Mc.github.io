@@ -12,3 +12,5 @@ It was soooooo simple, easy, almost effortless, these are all adjectives I was r
 Finally after many (failed) attempts I stumbled upon an idea with legs. I decided to create a simple gem to retrieve SEO related information. Having some SEO experience underneath my belt, I knew what items to target and was able to write a program fairly quickly. I *of course* ran a few final manual tests to verify everything worked as expected. The only thing left on the todo list was to record a quick demo. The finish line was finally within sight but then it happened. In what should have been concluded with a simple `exit` command, ended up being `exit… WTF#&@^$#%@$&%#@^!?!` And now 48 hours later I can finally say I’m done. Happy? No. Satisfied? Nope. I've finished the project and that’s all I have left to say.
 
 Welcome to programming, noobie.
+
+[GetSeo](https://github.com/Dom-Mc/get_seo) - [rubygems.org/gems/get_seo/versions/0.1.0](https://rubygems.org/gems/get_seo/versions/0.1.0)
