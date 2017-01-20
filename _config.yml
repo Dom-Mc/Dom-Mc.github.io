@@ -4,7 +4,7 @@ header-img: img/home-bg.jpeg
 email: dom.mckellar@gmail.com
 copyright_name: "Dom McKellar"
 description: > # this means to ignore newlines until "baseurl:"
-  The infancy of life in web development
+  Dominic McKellar - blog and portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
 author: "Dom McKellar"
 twitter_username: _dom_mc
