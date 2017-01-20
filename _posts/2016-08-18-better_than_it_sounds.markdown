@@ -5,7 +5,7 @@ date:   2016-08-18 18:50:05 -0400
 ---
 
 
-Having just completed the Sinatra section at [learn.co](https://learn.co), now is as good of an opportunity as any to share some thoughts on both my project and the ruby framework. I’ll be honest, at the beginning I wasn’t too excited about devoting an entire section to Sinatra. I didn’t quite understand the need to learn another web application framework right before Rails. Well, I was wrong.
+Having just completed the Sinatra section at [learn.co](https://learn.co), now is as good of an opportunity as any to share some thoughts on both [my project][Github](https://github.com/Dom-Mc/project_keeper) and the ruby framework. I’ll be honest, at the beginning I wasn’t too excited about devoting an entire section to Sinatra. I didn’t quite understand the need to learn another web application framework right before Rails. Well, I was wrong.
 
 I immensely enjoyed the lightweight framework and found it extremely helpful in reenforcing certain concepts I had somewhat struggled with in the past. Leading up to Sinatra I had a general understanding of terms such as *CRUD*, *MVC*, and *Rest*. However I now appreciate the flexibility Sinatra has to offer, as it gave me an opportunity to experiment and actually implement those concepts into practice.
 
