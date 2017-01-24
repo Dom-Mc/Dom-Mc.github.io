@@ -291,24 +291,6 @@ class Users::SessionsController < Devise::SessionsController
 end
 ```
 
-***
-### Additional Resources
+###
 
-* https://github.com/plataformatec/devise
-* https://github.com/plataformatec/devise/wiki/_pages
-* https://github.com/plataformatec/devise/wiki/How-Tos
-* https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication
-* https://www.sitepoint.com/devise-authentication-in-depth/
-
-
-#### Handling Redirects
-* https://github.com/plataformatec/devise/wiki/How-To:-redirect-to-a-specific-page-on-successful-sign-in
-
-
-#### Devise with OAuth
-* https://github.com/plataformatec/devise/wiki/OmniAuth:-Overview
-* http://stackoverflow.com/a/20737719/4467956
-
-
-#### Overriding Custom Behavior
-* https://github.com/plataformatec/devise/wiki/How-To%3a-Allow-users-to-edit-their-account-without-providing-a-password
+- by Dominic McKellar

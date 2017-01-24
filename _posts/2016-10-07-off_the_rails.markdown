@@ -15,4 +15,5 @@ My second focus had to do with Active Record and more specifically Active Record
 Overall the project was challenging enough for a newbie without adding additional obstacles, but would I have learned as much without them?  
 Sure I could have easily met the requirements by creating a simple blog and most likely saved myself a few weeks of frustration.  However much like a bootcamp, it’s about recognizing the opportunity, and ultimately what you get out of it will depend on the effort and time you’re willing to put in.
 
+- by Dominic McKellar
 [FetchIt](https://dom-mckellar-fetchit.herokuapp.com/) - [Github](https://github.com/Dom-Mc/fetch_it)

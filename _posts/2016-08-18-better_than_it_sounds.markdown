@@ -15,4 +15,5 @@ I came up with a mini blueprint for constructing the app. I’m a "visual learne
 
 Finally, much like this blog post, one of the most challenging aspects was deciding on a stopping point. Regardless the level of resistance, I always managed to find one final feature to tweak, another media query to add, or one last scan for potential code begging to get refactored. I had to constantly remind myself that a programming bootcamp is somewhat like a marathon, *NOT* a sprint. And no matter what, I must… keep… moving.
 
+- by Dominic McKellar
 [Project Keeper](https://dom-mckellar-projectkeeper.herokuapp.com/) - [Github](https://github.com/Dom-Mc/project_keeper)

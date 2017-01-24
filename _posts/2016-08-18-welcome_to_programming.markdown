@@ -13,4 +13,5 @@ Finally after many (failed) attempts I stumbled upon an idea with legs. I decide
 
 Welcome to programming, noobie.
 
+- by Dominic McKellar
 [GetSeo](https://github.com/Dom-Mc/get_seo) - [rubygems.org/gems/get_seo/versions/0.1.0](https://rubygems.org/gems/get_seo/versions/0.1.0)

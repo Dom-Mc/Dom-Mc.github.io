@@ -12,3 +12,6 @@ Do to the restful architecture of Rails’ routing along with convenient seriali
 Now to gain a little more experience in the process of both sending and receiving ajax requests, we weren’t able to use the remote: true option offered by Rails which automatically (and somewhat magically) converts a form submission into ajax.  Therefore we had to build out the ajax request by hand (aka the old fashion way), however that’s not even an accurate portrayal thanks largely to jQuery.
 
 While the requirements by themselves weren’t complicated to implement, it was indeed challenging to a finished project and changing/bending it in somewhat unnatural directions.  At the same time it provided an opportunity to learn the art of adaption because these are challenges we’ll face as developers going forward.  The life of an application isn’t linear and it will be essential to adapt to constant changes and demands of a project.  Learning how to build modular applications with the ability to scale is a large part of web development architecture and this project was perhaps our introduction.
+
+- by Dominic McKellar
+[Project Keeper](https://dom-mckellar-fetchit.herokuapp.com/) - [Github](https://github.com/Dom-Mc/fetch_it)
