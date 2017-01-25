@@ -4,7 +4,7 @@ title:  "Off the Rails"
 date:   2016-10-07
 ---
 
-For our [third project][Github](https://github.com/Dom-Mc/fetch_it) at (Flatiron)[https://flatironschool.com/], we were tasked with building a CMS (content management system) in Rails. The project had several requirements such as user authentication & authorization, incorporating a third party login (e.g. Facebook), joining together multiple tables, and more. With those requirements in mind, I decided to create an application for a fictitious task running (delivery) company called “FetchIt”.  
+For our [third project](https://github.com/Dom-Mc/fetch_it) at [Flatiron](https://flatironschool.com/), we were tasked with building a CMS (content management system) in Rails. The project had several requirements such as user authentication & authorization, incorporating a third party login (e.g. Facebook), joining together multiple tables, and more. With those requirements in mind, I decided to create an application for a fictitious task running (delivery) company called “FetchIt”.  
 
 From a personal standpoint I had been hoping to use the project as my first real opportunity to incorporate TTD (Test Driven Design) and to really push my comfort level with Active Record relationships. While reading, watching videos, completing various labs will get you so far, at the end of the day it’s about building applications. There’s simply no substitute for creating your own project(s) and ultimately learning from those inevitable mistakes. Sure it can be painful at times which I can and will attest to.  However learning from these growing pains is ultimately how you’ll improve and this project was no exception.
 
@@ -15,5 +15,6 @@ My second focus had to do with Active Record and more specifically Active Record
 Overall the project was challenging enough for a newbie without adding additional obstacles, but would I have learned as much without them?  
 Sure I could have easily met the requirements by creating a simple blog and most likely saved myself a few weeks of frustration.  However much like a bootcamp, it’s about recognizing the opportunity, and ultimately what you get out of it will depend on the effort and time you’re willing to put in.
 
-- by Dominic McKellar
+-by Dominic McKellar
+
 [FetchIt](https://dom-mckellar-fetchit.herokuapp.com/) - [Github](https://github.com/Dom-Mc/fetch_it)

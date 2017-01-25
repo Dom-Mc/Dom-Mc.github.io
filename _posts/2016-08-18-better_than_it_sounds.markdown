@@ -4,8 +4,7 @@ title:  "Better Than It Sounds"
 date:   2016-08-18 18:50:05 -0400
 ---
 
-
-Having just completed the Sinatra section at [learn.co](https://learn.co), now is as good of an opportunity as any to share some thoughts on both [my project](https://github.com/Dom-Mc/project_keeper) and the ruby framework. I’ll be honest, at the beginning I wasn’t too excited about devoting an entire section to Sinatra. I didn’t quite understand the need to learn another web application framework right before Rails. Well, I was wrong.
+Having just completed the Sinatra section at [flatiron](https://flatironschool.com/), now is as good of an opportunity as any to share some thoughts on both [my project](https://github.com/Dom-Mc/project_keeper) and the ruby framework. I’ll be honest, at the beginning I wasn’t too excited about devoting an entire section to Sinatra. I didn’t quite understand the need to learn another web application framework right before Rails. Well, I was wrong.
 
 I immensely enjoyed the lightweight framework and found it extremely helpful in reenforcing certain concepts I had somewhat struggled with in the past. Leading up to Sinatra I had a general understanding of terms such as *CRUD*, *MVC*, and *Rest*. However I now appreciate the flexibility Sinatra has to offer, as it gave me an opportunity to experiment and actually implement those concepts into practice.
 
@@ -15,5 +14,6 @@ I came up with a mini blueprint for constructing the app. I’m a "visual learne
 
 Finally, much like this blog post, one of the most challenging aspects was deciding on a stopping point. Regardless the level of resistance, I always managed to find one final feature to tweak, another media query to add, or one last scan for potential code begging to get refactored. I had to constantly remind myself that a programming bootcamp is somewhat like a marathon, *NOT* a sprint. And no matter what, I must… keep… moving.
 
-- by Dominic McKellar
+ -by Dominic McKellar
+
 [Project Keeper](https://dom-mckellar-projectkeeper.herokuapp.com/) - [Github](https://github.com/Dom-Mc/project_keeper)

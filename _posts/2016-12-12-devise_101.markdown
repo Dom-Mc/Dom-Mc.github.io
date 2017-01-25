@@ -291,6 +291,6 @@ class Users::SessionsController < Devise::SessionsController
 end
 ```
 
-###
+---
 
-- by Dominic McKellar
+-by Dominic McKellar

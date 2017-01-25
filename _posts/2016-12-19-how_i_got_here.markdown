@@ -13,4 +13,4 @@ I started with HTML, CSS-SASS, and the basics of JavaScript-jQuery.  After that 
 
 After researching various bootcamp options, in May I was accepted at learn.co (Flatiron) and have been learning ever since. Fast forward 7 months, I’m currently a day away from finishing and I simply cannot wait.  It’s been an up and down journey to say the least, however making the decision/commitment to enroll was one of the best decisions I’ve ever made.  With the end of one chapter in sight, another soon awaits.
 
-- by Dominic McKellar
+-by Dominic McKellar

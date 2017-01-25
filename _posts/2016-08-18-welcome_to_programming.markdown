@@ -5,7 +5,7 @@ date:   2016-08-18 21:01:28 +0000
 ---
 
 
-Our [first significant project][Github](https://github.com/Dom-Mc/get_seo) at (Flatiron)[https://flatironschool.com/ was “supposed” to be fairly straight forward. Create a basic CLI Ruby program, scrape a website by using the popular Nokogiri gem, parse the data, and display results to the user. Upon completion we were also required to package our program as a Ruby gem, nothing overly complicated. Unless of course for some strange reason you decided to make it overly complicated, however who would be foolish enough to do something like that (a hand is reluctantly raised).
+Our [first significant project](https://github.com/Dom-Mc/get_seo) at [Flatiron](https://flatironschool.com/) was “supposed” to be fairly straight forward. Create a basic CLI Ruby program, scrape a website by using the popular Nokogiri gem, parse the data, and display results to the user. Upon completion we were also required to package our program as a Ruby gem, nothing overly complicated. Unless of course for some strange reason you decided to make it overly complicated, however who would be foolish enough to do something like that (a hand is reluctantly raised).
 
 It was soooooo simple, easy, almost effortless, these are all adjectives I was really hoping to use often in this blog post. Oh well. In reality the project was painfully frustrating. My first two concepts flamed out due to an issue with scraping dynamically created content. In retrospect it makes sense how content created via javascript could present a challenge to scrape. Unfortunately searching for a solution ended up being more time consuming than I could afford. My next idea involved targeting larger sites but apparently not all websites appreciate their information being scraped by visitors. Go figure.
 
@@ -13,5 +13,6 @@ Finally after many (failed) attempts I stumbled upon an idea with legs. I decide
 
 Welcome to programming, noobie.
 
-- by Dominic McKellar
-[GetSeo](https://github.com/Dom-Mc/get_seo) - [rubygems.org/gems/get_seo/versions/0.1.0](https://rubygems.org/gems/get_seo/versions/0.1.0)
+-by Dominic McKellar
+
+[GetSeo](http://newme.io/get_seo) - [Github](https://github.com/Dom-Mc/get_seo) - [RubyGems.org](https://rubygems.org/gems/get_seo/versions/0.1.1)
