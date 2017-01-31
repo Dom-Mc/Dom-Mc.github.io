@@ -428,7 +428,7 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-.navbar h1 span {
+/*.navbar h1 span {
   font-family: 'Cabin', sans-serif;
   font-weight: 700;
 }
@@ -438,16 +438,17 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   font-style: italic;
-}
+}*/
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
-header {
+.site-heading {
   text-shadow: 1px 1px 1px #333;
 }
 .main-footer {
   background-color: rgba(29, 36, 42, 0.9);
+  margin-top: 6rem;
 }
 footer .copyright {
   color: rgba(255, 255, 255, 0.5);
@@ -455,6 +456,7 @@ footer .copyright {
   letter-spacing: .2rem;
   font-size: 1rem;
 }
+
 .social-icons a {
   color: #337ab7;
 }
@@ -470,4 +472,45 @@ footer .copyright {
   width: 5rem;
   height: 5rem;
   line-height: 5rem;
+}
+
+.intro-header {
+    min-height: 550px;
+}
+
+.brand {
+  font-weight: 600;
+}
+.navbar-brand.brand {
+  font-weight: 600;
+}
+
+
+.brand .brand--slim-weight{
+  font-weight: 100;
+  margin-right: 2px;
+  font-style: italic;
+}
+
+.post-preview:not(:last-of-type) {
+  border: 0;
+  border-bottom: 1px solid #eee;
+}
+.subheading {
+  font-style: italic;
+}
+
+.btn--submit {
+  background-color: white;
+  border-radius: 0;
+  border: 1px solid #ddd;
+}
+.btn--submit:hover {
+  color: white;
+  background-color: #0085a1;
+  border: 1px solid #0085a1;
+}
+
+.navbar-custom .nav li a {
+    font-weight: 500;
 }
